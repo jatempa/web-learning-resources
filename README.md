@@ -1,1 +1,31 @@
 # web-learning-resources
+
+1. HTML y CSS:
+   - https://internetingishard.netlify.app/
+   - https://learn.shayhowe.com/html-css/
+   - https://learntheweb.courses/topics/
+   - https://marksheet.io/
+   - https://web.dev/learn/css
+   - https://learnlayout.com/
+   - https://engineering.kablamo.com.au/posts/2021/my-first-css/
+   - https://www.joshwcomeau.com/css/understanding-layout-algorithms/
+   - https://piccalil.li/blog/the-box-model-and-box-sizing/
+   - https://www.joshwcomeau.com/css/center-a-div/
+   - https://www.joshwcomeau.com/css/interactive-guide-to-grid/
+   - https://ishadeed.com/article/learn-css-positioning/
+   - https://chriscoyier.net/2023/06/06/modern-css-in-real-life/
+   - https://www.youtube.com/watch?v=qm0IfG1GyZU
+2. JavaScript:
+   - https://youmightnotneedjquery.com/
+3. NodeJS:
+   - https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+4. React:
+   - https://fullstackopen.com/en/
+5. Git:
+   - https://rogerdudler.github.io/git-guide/
+   - https://gitexercises.fracz.com/
+   - https://jlord.us/git-it/index.html
+   - https://gitimmersion.com/index.html
+   - https://marklodato.github.io/visual-git-guide/index-en.html
+   - https://learngitbranching.js.org
+   - https://firstaidgit.io/#/
